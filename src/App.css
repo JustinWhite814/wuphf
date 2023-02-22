@@ -31,24 +31,24 @@
   background-color: #2f3c7e;
 }
 
-textarea{
+textarea {
   width: 100%;
 }
 
-img{
+img {
   cursor: pointer;
 }
 
-img:hover{
+img:hover {
   opacity: .5;
 }
 
-li{
+li {
   list-style-type: none;
   padding: 15px;
 }
 
-.sideBarUl{
+.sideBarUl {
   position: fixed;
   text-align: center;
   margin: 0 auto;
@@ -59,26 +59,26 @@ li{
   color: white;
 }
 
-.iconSize:hover{
+.iconSize:hover {
   color: rgb(225, 187, 130)
 }
 
-.signOut{
+.signOut {
   margin-top: 70px;
 }
 
-.userBackground{
+.userBackground {
   background-color: rgb(255, 255, 255, 0);
 }
 
-.modalButton{
+.modalButton {
   margin: 4px;
   color: white;
   background-color: #2f3c7e;
   border-radius: 5px;
 }
 
-.modalButton:hover{
+.modalButton:hover {
   border: rgb(225, 187, 130)
 }
 
