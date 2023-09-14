@@ -4,8 +4,6 @@
 
 > Welcome to Wuphf! It is a social media platform that allows users to wuphf "post" messages on a messaging board. Users have the ability to like and bookmark other user's messages. Each user is also given a profile page, which contains information about the user. (Site is currently down for maintenance and restructuring of code, it will be up very soon!)
 
-- [Frontend repo](https://github.com/GAP3/wuphf-frontend)
-- [Backend repo](https://github.com/GAP3/wuphf-backend)
 
 _WUPHF was created as a project 3 for General Assembly._
 
